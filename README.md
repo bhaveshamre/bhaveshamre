@@ -1,21 +1,5 @@
 <!-- ================= HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?
-type=waving
-&color=0:0a192f,50:112240,100:233554
-&height=230
-&section=header
-&text=Bhavesh%20Amol%20Amre
-&fontSize=44
-&fontColor=64ffda
-&animation=twinkling
-&fontAlignY=38
-&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Security%20%7C%20Big%20Data
-&descSize=16
-&descAlignY=58" />
-
-<div id="top"></div>
-
 <h2 align="center">
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> 
 I'm a Software Engineer from India 🇮🇳
