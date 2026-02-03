@@ -19,12 +19,12 @@ I'm a Software Engineer from India 🇮🇳
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=bhaveshamre&label=Profile%20Views&color=blue&style=flat-square" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaveshamre&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=bhaveshamre&theme=algolia&row=1&margin-w=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaveshamre&theme=algolia&row=1&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -51,27 +51,49 @@ I'm a Software Engineer from India 🇮🇳
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,hadoop,kafka,mysql,postgres,linux,git&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/> <b>Spring Boot</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/> <b>Docker</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/> <b>Kubernetes</b>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=hadoop&theme=dark" width="40"/> <b>Hadoop</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="40"/> <b>Kafka</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/> <b>MySQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/> <b>PostgreSQL</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/> <b>Linux</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/> <b>Git</b>
+</p>
+
 
 ---
 
 ## 📊 GitHub Statistics
 
-### 🔹 Overall Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhaveshamre&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bhaveshamre&show_icons=true&theme=tokyonight&rank_icon=github"
+    alt="Bhavesh GitHub Stats"
+  />
 </p>
 
-### 🔹 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshamre&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshamre&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
-### 🔹 Contribution Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshamre&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshamre&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ### 🔹 Contribution Activity Graph
@@ -80,17 +102,6 @@ I'm a Software Engineer from India 🇮🇳
 </p>
 
 ---
-
-## 🧠 GitHub Metrics
-<p align="center">
-<img src="https://github-metrics.vercel.app/api?username=bhaveshamre&theme=dark&margin-w=10&margin-h=10&config.timezone=Asia%2FKolkata" />
-</p>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting!;Happy+Coding+🚀;Keep+Building+Cool+Stuff!">
-</div>
 
 <p align="right">
 <a href="#top">
