@@ -65,6 +65,10 @@ I'm a Software Engineer from India 🇮🇳
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenjujaray&layout=compact)
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
