@@ -1,6 +1,18 @@
 <!-- ================= HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhavesh%20Amol%20Amre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&color=0:0a192f,50:112240,100:233554
+&height=230
+&section=header
+&text=Bhavesh%20Amol%20Amre
+&fontSize=44
+&fontColor=64ffda
+&animation=twinkling
+&fontAlignY=38
+&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Security%20%7C%20Big%20Data
+&descSize=16
+&descAlignY=58" />
 
 <div id="top"></div>
 
@@ -21,10 +33,6 @@ I'm a Software Engineer from India 🇮🇳
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhaveshamre&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaveshamre&theme=algolia&row=1&no-frame=true&margin-w=15" />
 </p>
 
 ---
