@@ -51,8 +51,7 @@ I'm a Software Engineer from India 🇮🇳
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=hadoop&theme=dark" width="40"/> <b>Hadoop</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="40"/> <b>Kafka</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=apache&theme=dark" width="40"/> <b>Apache Ranger</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/> <b>MySQL</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/> <b>PostgreSQL</b>
 </p>
