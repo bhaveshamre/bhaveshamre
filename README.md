@@ -24,7 +24,7 @@ I'm a Software Engineer from India 🇮🇳
 ## 👨‍💻 About Me
 
 - 🌱 Working as a **Software Engineer**
-- 💬 Ask me about **Java, Spring Boot, Apache Ranger, Hadoop, Docker**
+- 💬 Ask me about **Java, Spring Boot, Apache Ranger, Hadoop, Docker, MySQL, PostgreSQL**
 - 🔐 Strong interest in **Security, Big Data & Distributed Systems**
 - 📫 Reach me at **bhaveshamre@gmail.com**
 - ⚡ Fun fact: **I enjoy debugging production issues more than writing new code 😄**
