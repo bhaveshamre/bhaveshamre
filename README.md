@@ -40,27 +40,37 @@ I'm a Software Engineer from India 🇮🇳
 </p>
 
 ---
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/> <b>Java</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/> <b>Spring Boot</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="40"/> <b>.NET</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/> <b>C</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"/> <b>HTML</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"/> <b>CSS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40"/> <b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/> <b>React</b>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/> <b>Docker</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/> <b>Kubernetes</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apache&theme=dark" width="40"/> <b>Apache Ranger</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/> <b>MySQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/> <b>PostgreSQL</b>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/> <b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/> <b>MongoDB</b>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/> <b>Linux</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/> <b>Git</b>
 </p>
-
 
 ---
 
