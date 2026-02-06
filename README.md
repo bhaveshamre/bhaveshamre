@@ -78,29 +78,6 @@ I'm a Software Engineer from India 🇮🇳
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bhaveshamre&show_icons=true&theme=tokyonight&rank_icon=github"
-    alt="Bhavesh GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshamre&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshamre&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
 ### 🔹 Contribution Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshamre&theme=tokyo-night&hide_border=true" />
@@ -113,7 +90,3 @@ I'm a Software Engineer from India 🇮🇳
 <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-blue?style=flat-square" />
 </a>
 </p>
-
-<!-- ================= FOOTER ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
